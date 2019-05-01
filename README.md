@@ -8,4 +8,4 @@ Xamarin Forms Multiple Environment App Sample
 
 </p>
 
-Blog post: [Build applications based on environment configuration](http://www.xamboy.com/2019/05/01/build-applications-based-on-environment-configuration/)
+Blog post: [Multiple application installation based on the solution configuration](http://www.xamboy.com/2019/05/01/multiple-application-installation-based-on-the-solution-configuration/)
